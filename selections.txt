@@ -1,0 +1,1 @@
+{"mem rootdir": ["cpu*.pipeline*"], "cpu mem execute": ["cpu*.pipeline*"]}
